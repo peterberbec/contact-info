@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Peter Berbec
+N;CHARSET=UTF-8:Berbec;Peter;;;
+GENDER:M
+BDAY:19790124
+ANNIVERSARY:20140414
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:peter@berb.ec
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:peter@havetechwilltravel.nyc
+TEL;TYPE=CELL:9172132594
+TEL;TYPE=WORK,VOICE:2125511058
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Brooklyn;NY;11237;USA
+URL;CHARSET=UTF-8:https://havetechwilltravel.nyc
+X-SOCIALPROFILE;TYPE=facebook:https://facebook.com/pberbec
+X-SOCIALPROFILE;TYPE=instagram:https://instagram.com/ginger_wrangler/
+X-SOCIALPROFILE;TYPE=reddit:https://reddit.com/user/gamblodar
+REV:2022-04-28T14:56:00.420Z
+END:VCARD
